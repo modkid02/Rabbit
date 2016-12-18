@@ -5,7 +5,44 @@
     <classes>
       <class name="Register.RegisterTest">
         <methods>
-          <include name="NameValidation"/>
+          <include name="LastnameExceedMaxlength"/>
+          <include name="PasswordLowerThanMinlength"/>
+          <include name="WrongEmailFormat9"/>
+          <include name="WrongEmailFormat8"/>
+          <include name="PostalCodeRequire"/>
+          <include name="WrongEmailFormat7"/>
+          <include name="WrongEmailFormat6"/>
+          <include name="WrongEmailFormat5"/>
+          <include name="WrongPasswordFormat2"/>
+          <include name="PasswordRequire"/>
+          <include name="WrongPasswordFormat3"/>
+          <include name="LastNameRequire"/>
+          <include name="WrongPasswordFormat1"/>
+          <include name="AddressRequire"/>
+          <include name="CityExceedMaxlength"/>
+          <include name="PostalCodeExceedMaxlength"/>
+          <include name="EmailExceedMaxlength"/>
+          <include name="AddressExceedMaxlength"/>
+          <include name="StateRequire"/>
+          <include name="WrongConfirmPassword1"/>
+          <include name="WrongEmailFormat4"/>
+          <include name="WrongConfirmPassword2"/>
+          <include name="WrongEmailFormat3"/>
+          <include name="WrongConfirmPassword3"/>
+          <include name="WrongEmailFormat2"/>
+          <include name="UsernameExceedMaxlength"/>
+          <include name="WrongEmailFormat1"/>
+          <include name="Address2ExceedMaxlength"/>
+          <include name="EmailRequire"/>
+          <include name="StateExceedMaxlength"/>
+          <include name="CityRequire"/>
+          <include name="FirstNameRequire"/>
+          <include name="PasswordExceedMaxlength"/>
+          <include name="UsernameRequire"/>
+          <include name="PhoneRequire"/>
+          <include name="PhoneExceedMaxlength"/>
+          <include name="WrongPhoneFormat"/>
+          <include name="FirstnameExceedMaxlength"/>
         </methods>
       </class> <!-- Register.RegisterTest -->
     </classes>
